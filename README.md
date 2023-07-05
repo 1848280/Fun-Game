@@ -1,4 +1,4 @@
 # Fun-Game
-just a fun game i made on day 2 or learing python
+just a fun game i created to learn python
 (its fun)
 (i promise)
